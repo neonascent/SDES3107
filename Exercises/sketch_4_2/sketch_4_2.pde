@@ -13,27 +13,6 @@ size(screenWidth, screenWidth*2);
 
 background(0);  
 
-
-//ellipse(pos, pos, ellipseSize, ellipseSize);
-//pos += 20;
-//ellipseSize -= 10;
-//ellipse(pos, pos, ellipseSize, ellipseSize);
-//pos += 20;
-//ellipseSize -= 10;
-//ellipse(pos, pos, ellipseSize, ellipseSize);
-//pos += 20;
-//ellipseSize -= 10;
-//ellipse(pos, pos, ellipseSize, ellipseSize);
-//pos += 20;
-//ellipseSize -= 10;
-//ellipse(pos, pos, ellipseSize, ellipseSize);
-//pos += 20;
-//ellipseSize -= 10;
-//ellipse(pos, pos, ellipseSize, ellipseSize);
-//pos += 20;
-//ellipseSize -= 10;
-
-
 stroke(255,0,0);
 int drawPosition = 10; 
 int distanceBetweenLines = 50;
